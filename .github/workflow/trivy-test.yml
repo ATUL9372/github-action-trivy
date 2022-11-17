@@ -31,5 +31,6 @@ jobs:
       - name: trivy scan repo
         run: trivy repo https://github.com/ATUL9372/github-action-cicd.git
 
+
       # Runs a set of commands using the runners shell
      
